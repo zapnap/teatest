@@ -1,6 +1,6 @@
 {
   "name": "teatestz",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Test project",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,8 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "ntcjs": "^1.1.3"
   }
 }
